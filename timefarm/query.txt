@@ -1,0 +1,1 @@
+query_id=AAE8DeNXAgAAADwN41fJ7j3U&user=%7B%22id%22%3A5769465148%2C%22first_name%22%3A%22H.%20Thoriq%22%2C%22last_name%22%3A%2256%20Hari%20%24CRL%22%2C%22username%22%3A%22jaddenelckamp%22%2C%22language_code%22%3A%22id%22%2C%22allows_write_to_pm%22%3Atrue%7D&auth_date=1720600773&hash=e69d1b5fa8d583a1b4cd34f535157856a17c351259aaaad3bf02cb8bf640afaa

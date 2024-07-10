@@ -1,0 +1,1 @@
+user=%7B%22id%22%3A5769465148%2C%22first_name%22%3A%22H.%20Thoriq%22%2C%22last_name%22%3A%2256%20Hari%20%24CRL%22%2C%22username%22%3A%22jaddenelckamp%22%2C%22language_code%22%3A%22id%22%2C%22allows_write_to_pm%22%3Atrue%7D&chat_instance=6204624733951993206&chat_type=sender&auth_date=1720601082&hash=01aad4f7b590ca0f4dd93731fb6b92b7747085b0c4ff3f543d9587f6ee8d3ef4

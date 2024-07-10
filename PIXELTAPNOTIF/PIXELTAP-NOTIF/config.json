@@ -1,0 +1,7 @@
+{
+  "secret": "fc7866d912fc96e236c93455f9d6516363605bd2711add02c7edbdbff6851dac",
+  "tgId": "5769465148",
+  "initData": "query_id=AAE8DeNXAgAAADwN41evDXU8&user=%7B%22id%22%3A5769465148%2C%22first_name%22%3A%22Jadden%22%2C%22last_name%22%3A%22Elckamp%22%2C%22username%22%3A%22jaddenelckamp%22%2C%22language_code%22%3A%22en%22%2C%22allows_write_to_pm%22%3Atrue%7D&auth_date=1718691048&hash=924e1567786ae80a828f705aa7f53bbcdaab6321107d693bc7c1307af39a3962",
+  "telegram_bot_token": "7375936589:AAFmnT20oZJA1_9W4tlLrjlQ8NUhr3d6dMc",
+  "telegram_chat_id": "5769465148"
+}
